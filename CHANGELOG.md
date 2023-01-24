@@ -2,6 +2,10 @@
 
 ## v8.1.1
 
+- Update name complie() to implementation() for publish npm
+
+## v8.1.1
+
 - Update name complie() to implementation() for suport androidSDK 31
 
 ## v8.1.0
