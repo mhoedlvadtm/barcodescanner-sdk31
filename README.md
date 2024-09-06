@@ -1,7 +1,7 @@
 # PhoneGap Plugin BarcodeScanner SDK 31
 =======================================
 
- Update name complie() to implementation() for suport androidSDK 31 - Starley Cazorla
+ Update name complie() to implementation() for suport androidSDK 31
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
@@ -12,7 +12,7 @@ Follows the [Cordova Plugin spec](https://cordova.apache.org/docs/en/latest/plug
 ## Installation
 
 
-    npm i @starley/barcodescanner-sdk31
+    npm i @mhoedl/barcodescanner-sdk31
 
 
 ### Supported Platforms
